@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "phareroz",
+    "mail": "phare.roz@orange.fr"
+  },
+  "description": "logger utility for nodejs",
+  "keywords": [ "logger", "nodejs" ],
+  "license": "MIT",
+  "name": "@phareroz/logger",
+  "main": "logger.js",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
